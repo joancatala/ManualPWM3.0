@@ -2,15 +2,15 @@ Gestión de nuestro Portal Web Municipal
 =======================================
 Optional Author Name <jcatala@dipcas.es>
 Optional version 1.0, optional 12/10/2017
-:Author:    Joan Catala Piñon
-:Email:     <jcatala@dipcas.es>
-:Date:      12/10/2017
-:Revision:  1.0
+:Author:    SEPAM - DIPUTACIO DE CASTELLO
+:Email:     <grupotic@dipcas.es>
+:Date:      20/10/2017
+:Revision:  1.1
 :doctype: book
 :source-highlighter: coderay
 :listing-caption: Listing
 :pdf-page-size: A4
-:toc: preamble
+:toc: left
 // :toc-placement!:
 :toc-title: Índice de contenidos
 toc::[]

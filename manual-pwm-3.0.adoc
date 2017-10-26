@@ -706,22 +706,54 @@ Así, si quieres publicar un documento zip, por ejemplo, que ocupa 35 Mb, es rec
 publicarlo en alguna nube y posteriormente enlazarlo desde la web. Esto será transparente 
 para el usuario que sólo hará click en tu enlace para descargarse la información.
 
+
+
 === ¿Dónde están las noticias antiguas?
 
 Cuando pasamos de Drupal 7 a Drupal 8, los Ayuntamientos no se deben preocupar por pasar las 
 noticias antiguas que tenían publicadas en la web antigua. Este proceso es automático y las 
 noticias quedarán en la Hemeroteca.
 
+
+
 Podemos acceder a la Hemeroteca desde la url http://TUPAGINAWEB.es/vecinos/hemeroteca
 Es posible, puesto a que se trata de un servicio, mover la Hemeroteca a la sección que desees.
 
+=== Tengo un problema raro con la web.
+
+No pierdas el tiempo si experimentas algún problema que no acabas de entender. Es probable que 
+se deba a un fallo técnico o un error temporal. Lo mejor es que nos pongas un ticket en 
+nuestro sistema de Incidencias (cuya página es http://incidencias.dipcas.es) y te contestaremos 
+en la mayor brevedad posible desde dicha plataforma.
+
+=== Cómo publicar un video
+
+Si pretendes subir un video directamente a tu web, irá muy lenta la subida y también la 
+reproducción. 
+
+Lo mejor, a la hora de publicar un video, es que te crees una cuenta en Vimeo o en Youtube, que
+son dos plataformas muy profesionales y muy populares para el mundo de los videos en internet.
+De esta manera, podrás tener una biblioteca de videos, incrustarlos en tus páginas web cuando
+desees y, sobre todo, los videos correrán a velocidad normal ya que el ancho de banda de estas 
+dos plataformas es enorme.
+
+=== ¿Puedo introducir libremente HTML?
+
+Sí. El editor de páginas o noticias de la web tiene un botón de HTML donde puedes activarlo y
+desactivarlo siempre que lo desees para introducir código HTML.
 
 
-// === Cómo publicar un video (crea canal de Vimeo o Youtube)
-// === Cómo fomentar una noticia o nueva sección (Usa Canva.com para fomentar una campaña buena)
-// === ¿Qué programas de diseño recomendáis? (The Gimp, Pixlr editor, Canva.com)
-// === ¿Puedo introducir libremente HTML?
-// === Tengo un problema en mi web (incidencias)
+=== Cómo fomentar una noticia o nueva sección
+
+Siempre recomendamos usar las redes sociales cuando queremos difundir algo masivamente. Y a
+la hora de intentar llegar a más gente, te recomendamos acompañar las noticias con una buena
+imagen o un póster o cartel. Puedes utilizar www.canva.com o una aplicación de diseño gráfico
+como, por ejemplo, The Gimp. 
+
+Aprovéchate de los usuarios que hay en Facebook, Twitter, Instagram, etc, y publica tus noticias
+en dichas plataformas para llegar al máximo número de público posible.
+
+
 
 // *************************************************************************************
 == Mejoremos la Accesibilidad web
@@ -755,6 +787,11 @@ image::imatges/usabilidad1.png[Usabilidad]
 Las Pautas contienen además una serie de puntos de verificación que ayudan a detectar 
 posibles errores.
 
+
+// *************************************************************************************
+== Usabilidad web
+// *************************************************************************************
+
 El neologismo usabilidad (del inglés usability -facilidad de uso-) se refiere a la facilidad 
 con que las personas pueden utilizar una herramienta particular o cualquier otro objeto 
 fabricado por humanos con el fin de alcanzar un objetivo concreto. La usabilidad es un 
@@ -781,11 +818,3 @@ Con la Usabilidad, tu web va a ganar:
 
 
 
-// *************************************************************************************
-// == Usabilidad web
-// *************************************************************************************
-
-
-// *************************************************************************************
-// == Webs resistivas
-// *************************************************************************************

@@ -336,7 +336,7 @@ image::imatges/monzon.png[Monzon]
 image::imatges/marin.png[Marin]
 
 // *************************************************************************************
-== Accedint al Portal Web Municipal
+== Accediendo al Portal Web Municipal
 // *************************************************************************************
 Podemos acceder a nuestro portal web muncipal añadiendo */user* al final de nuestra 
 dirección url, por ejemplo, si nuestro municipio es Cabanes, accederemos a nuestra web 
@@ -345,26 +345,43 @@ escribiendo *www.cabanes.es/user*
 Y nos solicitará que introduzcamos nuestro usuario y contraseña para poder gestionar los 
 contenidos de la web.
 
+Por motivos de seguridad, recuerda salir de la sesión cuando finalices las tareas de 
+publicación. Puedes salir de la sesión pulsando sobre tu usuario (en la barra superior 
+de la página, una vez hayas accedido) y a continuación pulsando en 'Cerrar sesión'.
+
+
+
 // *************************************************************************************
 == Cambiar algunos aspectos gráficos
 // *************************************************************************************
-Iremos a la opción "Apariencia" + "Ajustes" de nuestro tema, y aquí podremos cambiar el 
-escudo de nuestra web y también subir una nueva imagen de fondo.
+Si queremos modificar un poco la parte gráfica de nuestro portal web municipal, iremos a
+a la opción "Apariencia" + "Ajustes" de nuestro tema, y aquí podremos cambiar el escudo 
+de nuestra web y también subir una nueva imagen de fondo.
 
 image::imatges/cambiar-aspectos-graficos.png[Cambiar aspectos gráficos]
+
+
 
 // *************************************************************************************
 == Listar todos los contenidos de la web
 // *************************************************************************************
-Para listar todos los contenidos de la web, iremos a "Contenido" en el menú superior. 
-Aquí tenemos todas las noticias, todas las páginas simples, todos los bandos, etc. 
-Podemos editar los contenidos (desde la opción editar de la derecha) así como también 
-eliminar.
+En nuestras webs municipales tenemos Noticias, Páginas sencillas, Bandos, Eventos, etc, 
+y es probable que pasado un cierto tiempo quieras volver a editar un contenido antiguo, 
+o recuperarlo para coger alguna información, o incluso eliminarlo.
+
+Pues bién, para listar todos los contenidos de la web, iremos a "Contenido" en el menú 
+superior. Aquí tenemos todas las noticias, todas las páginas simples, todos los bandos, 
+etc. 
+
+Desde este mismo lugar, en "Contenidos", también podemos editar los contenidos (desde la 
+opción editar de la derecha) así como también eliminar cualquier contenido.
 
 image::imatges/listar-contenidos-web.png[Listar todos los contenidos de la web]
 
+
+
 // *************************************************************************************
-== Buscar cualquier contenido de la web
+== Buscar contenidos de la web
 // *************************************************************************************
 En este apartado "Contenidos", tenemos un buscador que podemos usar para buscar cualquier 
 contenido que tengamos en nuestra web y que necesitemos editar o gestionar. En el 
@@ -372,6 +389,8 @@ siguiente ejemplo, queríamos encontrar una página llamada "Cataratas del Niág
 buscado 'Niágara' en el buscador.
 
 image::imatges/buscar-contenidos-web.png[Buscar contenidos en la web]
+
+
 
 // *************************************************************************************
 == Crear, modificar y gestionar la estructura
@@ -381,6 +400,8 @@ términos". Y desde aquí tenemos todas las Secciones y Servicios y Subservicios
 web.
 
 image::imatges/estructura.png[Estructura]
+
+
 
 === Crear una nueva sección
 
@@ -392,6 +413,8 @@ padres") debe ser "Raíz".
 IMPORTANTE: no hay que escribir nada en el campo "Descripción". 
 
 image::imatges/nueva-seccion.png[Nueva sección]
+
+
 
 === Crear un nuevo servicio
 
@@ -407,6 +430,8 @@ A continuación os dejamos un ejemplo:
 
 image::imatges/nuevo-servicio-discotecas.png[Nuevo servicio discotecas]
 
+
+
 === Crear un nuevo subservicio
 
 Un subservicio es un tercer nivel. El primer nivel era crear una sección, el segundo era 
@@ -421,6 +446,8 @@ Crearemos un subservicio de la misma manera que hemos creado una sección o un s
 en los dos apartados anteriores, a diferencia que en el campo "Términos padres" debemos 
 especificar que cuelga dentro de un servicio. Y la página se visualizará como la de Sant 
 Jordi, es decir, aparecerá una columna que muestra cajitas con los subservicios.
+
+
 
 === Crear un listado de contenidos
 
@@ -448,6 +475,8 @@ que realizamos durante las jornadas formativas y que hemos llamado "Lugares de i
 
 image::imatges/ejemplo-lugares-interes.png[Ejemplo: lugares de interés]
 
+
+
 === Eliminar una sección o servicio
 
 En todo momento podemos crear secciones o servicios, pero también eliminarlos cuando no 
@@ -457,6 +486,8 @@ y veremos que se nos desplega la opción "Eliminar".
 
 image::imatges/eliminar-servicio-o-seccion.png[Eliminar una sección o servicio]
 
+
+
 // *************************************************************************************
 == Publicación de contenidos
 // *************************************************************************************
@@ -464,6 +495,8 @@ Una vez tenemos creada nuestra estructura de la web (los pilares de la casa) aho
 necesario publicar los contenidos y dotar a esa estructura de información, ya sea con 
 páginas, bandos, noticias, etc. A continuación vamos a repasar uno a uno todos los 
 distintos tipos de contenidos que podemos utilizar en las webs municipales.
+
+
 
 === Publicar un bando municipal
 
@@ -479,6 +512,8 @@ texto de color rojo, como en la siguiente imagen:
 
 image::imatges/bando2.png[Publicando un bando]
 
+
+
 === Publicar una noticia con una imagen
 
 Publicaremos una imagen desde "Contenido" + "Agregar contenido" y deberemos introducir un 
@@ -488,6 +523,8 @@ que de lo contrario el sistema de publicación no nos dejará guardar la imagen 
 de color rojo el campo obligatorio.
 
 image::imatges/imagen-1-foto.png[Publicar una noticia con una imagen]
+
+
 
 === Publicar una noticia con varias imágenes
 
@@ -502,6 +539,8 @@ la navegación con smartphone o tablet.
 
 image::imatges/imagen-varias-fotos2.png[Publicar noticia con varias imágenes]
 
+
+
 === Publicar una noticia con uno o varios enlaces a webs
 
 En el cuerpo de las noticias, disponemos de un botón para escribir en negrita, otro para 
@@ -512,6 +551,8 @@ donde, si por ejemplo queremos poner un enlace de la Diputación de Castellón, 
 http://www.dipcas.es
 
 image::imatges/enlaces.png[Noticias con uno o varios enlaces]
+
+
 
 === Publicar una noticia con un video de Youtube
 
@@ -549,7 +590,9 @@ video, como ya sabrás.
 
 Muchas veces nos preguntan cómo pueden subir videos a las webs municipales, pero 
 nosotros siempre recomendamos crear una cuenta en Youtube, subirlos a vuestra cuenta y 
-luego incrustarlos en vuestras webs municipales, ya que es muy fácil como acabáis de ver. 
+luego incrustarlos en vuestras webs municipales, ya que es muy fácil como acabáis de ver.
+
+ 
 
 === Publicar una noticia con una galería de fotos de Flickr
 
@@ -597,6 +640,8 @@ al publicarla en la web, como se visualizarán en modo horizontal, la parte supe
 parte inferior de la imagen saldrán cortadas. Es importante hacer las fotos horizontales 
 siempre.
 
+
+
 === Publicar una página sencilla
 
 Las páginas no son noticias, y por lo tanto no son contenidos a publicar regularmente. Las 
@@ -623,9 +668,18 @@ la Estructura "Horario de Autobuses". Y a continuación, ya podemos crear la pá
 // === Publicar una página simple con muchos ficheros de texto
 // === Publicar las redes sociales
 
+
+
 // *************************************************************************************
 == Dudas comunes
 // *************************************************************************************
+
+A continuación, en este tema del manual vamos a ir añadiendo todas las dudas y cuestiones
+comunes que vayamos viendo que se repiten en los cursos de formación, o en el día a día
+también reflejadas en el sistema de incidencias Mantis (http://incidencias.dipcas.es) para
+responder fácilmente a este tipo de cuestiones comunes.
+
+
 
 === He copiado una página y al pegarla en la web se ve mal
 
@@ -639,6 +693,8 @@ página. Para ello, copia el texto y pégalo en el Bloc de Notas de Windows (not
 lo pegas. Y allí ya no tiene ningún formato. Lo vuelves a copiar y ya finalmente lo puedes 
 pegar en tu página web.
 
+
+
 === Cómo subir un fichero grande
 
 Te recomendamos que, para ficheros de más de 8 Mb, no los publiques en tu web, porque esto 
@@ -649,6 +705,17 @@ Hay más alternativas, pero estas dos son actualmente las más populares y son g
 Así, si quieres publicar un documento zip, por ejemplo, que ocupa 35 Mb, es recomendable 
 publicarlo en alguna nube y posteriormente enlazarlo desde la web. Esto será transparente 
 para el usuario que sólo hará click en tu enlace para descargarse la información.
+
+=== ¿Dónde están las noticias antiguas?
+
+Cuando pasamos de Drupal 7 a Drupal 8, los Ayuntamientos no se deben preocupar por pasar las 
+noticias antiguas que tenían publicadas en la web antigua. Este proceso es automático y las 
+noticias quedarán en la Hemeroteca.
+
+Podemos acceder a la Hemeroteca desde la url http://TUPAGINAWEB.es/vecinos/hemeroteca
+Es posible, puesto a que se trata de un servicio, mover la Hemeroteca a la sección que desees.
+
+
 
 // === Cómo publicar un video (crea canal de Vimeo o Youtube)
 // === Cómo fomentar una noticia o nueva sección (Usa Canva.com para fomentar una campaña buena)

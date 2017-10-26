@@ -782,10 +782,25 @@ WCAG consiste en 14 pautas que proporcionan soluciones de diseño y que utilizan
 situaciones comunes en las que el diseño de una página puede producir problemas de acceso a 
 la información.
 
-image::imatges/usabilidad1.png[Usabilidad]
-
 Las Pautas contienen además una serie de puntos de verificación que ayudan a detectar 
 posibles errores.
+
+La necesidad de que la Web sea universal y accesible por cualquier persona está presente 
+desde el principio de la Web, ya que era un requisito contemplado en su diseño por su 
+creador Tim Berners-Lee:
+
+*"The power of the Web is in its universality. Access by everyone regardless of disability 
+is an essential aspect."*
+
+El poder de la Web está en su universalidad. El acceso por cualquier persona, 
+independientemente de la discapacidad que presente es un aspecto esencial.
+
+Fuente: World Wide Web Consortium Launches International Program Office for Web 
+Accessibility Initiative. Tim Berners-Lee, Director del W3C e inventor de la World Wide 
+Web
+
+
+
 
 
 // *************************************************************************************
@@ -805,6 +820,8 @@ Cuando redactas una noticia o estructuras el menú principal de tu web municipal
 pensar en ti y en tus gustos personales, debes tener un poco de más visión y entender que 
 los principales tipos de discapacidades son: las deficiencias visuales, las deficiencias 
 auditivas, las deficiencias motrices y las deficiencias cognitivas del lenguaje.
+
+image::imatges/usabilidad1.png[Usabilidad]
 
 Con la Usabilidad, tu web va a ganar:
 

@@ -755,7 +755,9 @@ en dichas plataformas para llegar al máximo número de público posible.
 
 === Activar el logo del Fondo Social Europeo de las ayudas EMPUJU
 
-Se ha configurado un bloque en el portal web municipal para que cualquier 'webmaster' pueda activar el logotipo del Fondo Social Europeo desde donde se enlaza a una página informativa con los enlaces y documentación requerida. En el documento que envía el SERVEF indican claramente que la web municipal debe tener el logotipo del FSE y el lema, y que éste no sea una imagen estática sino un enlace a otra página donde se incluya los enlaces a la ayuda.
+Se ha configurado un bloque en el portal web municipal para que cualquier 'webmaster' pueda activar el logotipo del Fondo Social Europeo desde donde se enlaza a una página informativa con los enlaces y documentación requerida. 
+
+En el documento que envía el SERVEF indican claramente que la web municipal debe tener el logotipo del FSE y el lema, y que éste no sea una imagen estática sino un enlace a otra página donde se incluya los enlaces a la ayuda.
 
 image::imatges/fse1.png[Logo del Fondo Social Europeo]
 

@@ -753,6 +753,22 @@ como, por ejemplo, The Gimp.
 Aprovéchate de los usuarios que hay en Facebook, Twitter, Instagram, etc, y publica tus noticias
 en dichas plataformas para llegar al máximo número de público posible.
 
+=== Activar el logo del Fondo Social Europeo de las ayudas EMPUJU
+
+Se ha configurado un bloque en el portal web municipal para que cualquier 'webmaster' pueda activar el logotipo del Fondo Social Europeo desde donde se enlaza a una página informativa con los enlaces y documentación requerida. En el documento que envía el SERVEF indican claramente que la web municipal debe tener el logotipo del FSE y el lema, y que éste no sea una imagen estática sino un enlace a otra página donde se incluya los enlaces a la ayuda.
+
+image::imatges/fse1.png[Logo del Fondo Social Europeo]
+
+Bién, pues para activar este logotipo, el cual aparecerá en el pie de las páginas, para mantener la navegación usable, adaptada y minimalista, accederemos con nuestro usuario. Iremos a 'Estructura' y a continuación a 'Diseño de bloques'. 
+
+image::imatges/fse2.png[Logo del Fondo Social Europeo]
+
+Una vez estamos viendo los bloques, bajaremos casi al final de todo, y en la sección llamada 'Footer fifth', es donde debemos añadir el bloque del logo del Fondo Social Europeo. Para ello, haremos click sobre el botón 'Colocar bloque' junto a 'Footer fifth', y ahora escribiremos 'fse' en el desplegable que se nos muestra:
+
+image::imatges/fse3.png[Logo del Fondo Social Europeo]
+
+Guardamos esta pantalla, y finalmente volvemos a guardar la página de los bloques.
+Y ya tendremos el logotipo del Fondo Social Europeo en el pie de nuestra página web municipal.
 
 
 // *************************************************************************************
